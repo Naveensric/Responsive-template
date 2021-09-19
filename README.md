@@ -1,1 +1,1 @@
-# responsive_fluid_template
+# Responsive_Fluid_template
